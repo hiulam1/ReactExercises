@@ -3,14 +3,6 @@
 import Textbox from "./components/Textbox";
 
 function App() {
-  const items = [
-    "banana",
-    "apple",
-    "orange",
-    "mango",
-    "pineapple",
-    "watermelon",
-  ];
   return (
     <div>
       <Textbox />
