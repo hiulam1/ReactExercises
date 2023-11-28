@@ -1,11 +1,9 @@
-// import { useState } from 'react'
-// import ListGroup from "./components/ListGroup"
-import Textbox from "./components/Textbox";
+import Profile from "./components/Profile";
 
 function App() {
   return (
     <div>
-      <Textbox />
+      <Profile />
     </div>
   );
 }
