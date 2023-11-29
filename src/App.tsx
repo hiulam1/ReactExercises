@@ -1,9 +1,10 @@
+import Counter2 from "./components/Counter2";
 import Profile from "./components/Profile";
 
 function App() {
   return (
     <div>
-      <Profile />
+      <Counter2 />
     </div>
   );
 }
