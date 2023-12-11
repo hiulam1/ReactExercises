@@ -1,3 +1,4 @@
+// Implementing a counter which would increase or decrease the count by 1.
 import React, { useState } from "react";
 
 function Counter() {
